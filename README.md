@@ -1,3 +1,3 @@
-# khanza2022
+# khanza
 
 - deposit pendapatan per cara bayar
